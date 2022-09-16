@@ -1,5 +1,5 @@
 ---
-- hosts: localhost
+- hosts: 10.1.66.102
   gather_facts: no
   vars_files:
     - "{{demo}}/setup.yml"
